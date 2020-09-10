@@ -35,7 +35,9 @@ dependencies {
 test {
 	useJUnitPlatform()
 }
+/*
 
+ */
 jacocoTestCoverageVerification {
 	violationRules {
 		rule {
